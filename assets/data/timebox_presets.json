@@ -1,0 +1,42 @@
+[
+  {
+    "id": "classic_pomodoro",
+    "title": "Classic Flow",
+    "focusMinutes": 25,
+    "breakMinutes": 5,
+    "longBreakMinutes": 15,
+    "sessionsBeforeLongBreak": 4,
+    "tag": "Deep Work",
+    "recommendedSound": "rain.wav"
+  },
+  {
+    "id": "deep_boxing",
+    "title": "Deep Time Box",
+    "focusMinutes": 50,
+    "breakMinutes": 10,
+    "longBreakMinutes": 20,
+    "sessionsBeforeLongBreak": 3,
+    "tag": "High Impact",
+    "recommendedSound": "binaural_alpha.wav"
+  },
+  {
+    "id": "zen_marathon",
+    "title": "Extended Sprint",
+    "focusMinutes": 90,
+    "breakMinutes": 20,
+    "longBreakMinutes": 30,
+    "sessionsBeforeLongBreak": 2,
+    "tag": "Architecture & Writing",
+    "recommendedSound": "forest.wav"
+  },
+  {
+    "id": "quick_spark",
+    "title": "Quick Ignition",
+    "focusMinutes": 15,
+    "breakMinutes": 3,
+    "longBreakMinutes": 10,
+    "sessionsBeforeLongBreak": 4,
+    "tag": "Micro Task",
+    "recommendedSound": "ocean_waves.wav"
+  }
+]

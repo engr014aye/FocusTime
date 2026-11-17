@@ -1,0 +1,112 @@
+[
+  {
+    "id": "m1",
+    "title": "500ml Hydration Boost",
+    "subtitle": "Kickstart metabolic energy immediately after waking",
+    "category": "Health & Vitality",
+    "block": "Morning",
+    "icon": "drop_fill",
+    "targetMinutes": 2,
+    "colorHex": "0xFF0284C7"
+  },
+  {
+    "id": "m2",
+    "title": "5-Min Mindful Breath",
+    "subtitle": "Box breathing (4s in, 4s hold, 4s out, 4s hold) to center focus",
+    "category": "Mindset",
+    "block": "Morning",
+    "icon": "wind",
+    "targetMinutes": 5,
+    "colorHex": "0xFF0D9488"
+  },
+  {
+    "id": "m3",
+    "title": "Natural Sunlight Exposure",
+    "subtitle": "Anchor circadian rhythm with 10 minutes of direct morning light",
+    "category": "Vitality",
+    "block": "Morning",
+    "icon": "sun_max_fill",
+    "targetMinutes": 10,
+    "colorHex": "0xFFD97706"
+  },
+  {
+    "id": "m4",
+    "title": "Daily 3 Deep Time-Boxes",
+    "subtitle": "Define today's top 3 high-impact non-negotiable blocks",
+    "category": "Deep Work",
+    "block": "Morning",
+    "icon": "target",
+    "targetMinutes": 5,
+    "colorHex": "0xFF4F46E5"
+  },
+  {
+    "id": "a1",
+    "title": "Deep Work Sprint #1",
+    "subtitle": "90-minute uninterrupted distraction-free execution block",
+    "category": "Deep Work",
+    "block": "Afternoon",
+    "icon": "timer",
+    "targetMinutes": 90,
+    "colorHex": "0xFF6366F1"
+  },
+  {
+    "id": "a2",
+    "title": "Posture & Ergonomics Reset",
+    "subtitle": "Thoracic spine extension, neck mobility, and eye rest",
+    "category": "Health & Vitality",
+    "block": "Afternoon",
+    "icon": "figure_walk",
+    "targetMinutes": 5,
+    "colorHex": "0xFF10B981"
+  },
+  {
+    "id": "a3",
+    "title": "Screen Detox Walk",
+    "subtitle": "Brisk outdoor or ambient walk without smartphone stimulation",
+    "category": "Vitality",
+    "block": "Afternoon",
+    "icon": "leaf_arrow_circlepath",
+    "targetMinutes": 15,
+    "colorHex": "0xFF059669"
+  },
+  {
+    "id": "a4",
+    "title": "Deep Work Sprint #2",
+    "subtitle": "45-minute closure block for priority milestones",
+    "category": "Deep Work",
+    "block": "Afternoon",
+    "icon": "flame_fill",
+    "targetMinutes": 45,
+    "colorHex": "0xFFEC4899"
+  },
+  {
+    "id": "e1",
+    "title": "Daily Wins & Reflection Log",
+    "subtitle": "Review completed time-boxes and document insights",
+    "category": "Mindset",
+    "block": "Evening",
+    "icon": "checkmark_seal_fill",
+    "targetMinutes": 5,
+    "colorHex": "0xFF8B5CF6"
+  },
+  {
+    "id": "e2",
+    "title": "Digital Sunset",
+    "subtitle": "Silence push notifications and disconnect from high-stimulus screens",
+    "category": "Vitality",
+    "block": "Evening",
+    "icon": "moon_stars_fill",
+    "targetMinutes": 30,
+    "colorHex": "0xFF3B82F6"
+  },
+  {
+    "id": "e3",
+    "title": "Reading & Thought Expansion",
+    "subtitle": "Immerse in physical books, philosophy, or craft literature",
+    "category": "Creative Flow",
+    "block": "Evening",
+    "icon": "book_fill",
+    "targetMinutes": 20,
+    "colorHex": "0xFFF59E0B"
+  }
+]

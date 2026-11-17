@@ -1,0 +1,52 @@
+FocusTime Routine is a minimalist, high-performance daily micro-habit tracker and time-boxing utility engineered to cultivate sustained focus, consistent daily execution, and deep mental clarity.
+
+Eliminate decision fatigue and conquer procrastination. FocusTime Routine replaces chaotic to-do lists with intentional time blocks, science-backed micro-routines, and tactile ambient soundscapes designed to effortlessly ease your brain into flow state.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ CORE ARCHITECTURE & CAPABILITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. DAILY ROUTINE & MICRO-HABIT ENGINE
+• Structured Time-of-Day Blocks: Align your actions with circadian energy across Morning Ignition, Afternoon Deep Flow, and Evening Decompression.
+• One-Tap Completion: Instant tactile response and smooth spring celebrations when you complete habits.
+• Zero Friction: Preloaded with essential high-value micro-habits including hydration kicks, box breathing, ergonomic resets, and digital sunset rituals.
+• Custom Micro-Habits: Add your personalized routines with custom icon palettes, target minutes, and block assignments.
+
+2. TIME-BOXING & POMODORO FLOW TIMER
+• Interactive Circular Dial: Beautiful fluid progress ring with smooth sweep gradients and glowing time indicators.
+• Flexible Protocols: Seamlessly switch between Classic Flow (25m), Deep Boxing (50m), Extended Sprint (90m), or Quick Ignition (15m).
+• Rest Cycles: Automated smart breaks (5m short rest, 15m long rest) to prevent cognitive burnout.
+• One-Tap Launch: Launch any routine directly into an active focus session pre-tagged to your habit log.
+
+3. HIGH-FIDELITY AMBIENT SOUNDSCAPES
+• Acoustic Concentration: Built-in offline audio loops engineered for background masking and flow state.
+• Sound Library:
+  - Rain Shower (natural precipitation & distant ambient rumble)
+  - Forest Sanctuary (pine breeze rustle with harmonious bird song)
+  - Ocean Swell (rhythmic rolling waves for continuous deep concentration)
+  - Alpha Flow 10Hz (calibrated binaural beats for peak focus)
+  - Cosmic Noise (soothing brown/pink focus noise)
+• Zen Meditation Bells: Authentic singing bowl chimes celebrate each completed time block.
+
+4. INSIGHTS & DAILY FLOW ANALYTICS
+• Daily Streak Counter: Track consecutive days of mindful execution and habit momentum.
+• 7-Day Activity Flow: Elegant visual bar charts show your daily focus time distribution.
+• Category Allocation: Audit how much time you dedicate to Deep Work, Health, Mindset, and Vitality.
+• Comprehensive Session Logs: Automatically timestamps every finished focus block.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💎 ELEVATED DESIGN SYSTEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Fluid Spring Physics: Every interaction features natural bounce curves, seamless overscroll physics, and smooth modal sheet transitions.
+• Light Theme & OLED Dark Theme: Default crisp, luminous Light Theme instantly toggleable to a pure pitch-black OLED Dark Mode.
+• Glassmorphic Translucency: Translucent cards, subtle luminous borders, and smooth rounded surfaces without harsh rectangular edges.
+• Tactile Sensory Feedback: Refined haptic clicks accompany every timer start, pause, and habit completion.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔒 100% OFFLINE & PRIVACY PLEDGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• Zero Intrusive Permissions: Operates completely offline without requiring location, contacts, or storage permissions.
+• Local SQLite Database: Your routines, completions, and focus logs are encrypted and stored solely on your physical device.
+• Zero Tracking: No analytics tracking, no external server calls, and no account creation required.
+
+Master your daily energy. Elevate your craft with FocusTime Routine.
